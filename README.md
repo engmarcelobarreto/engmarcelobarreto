@@ -1,6 +1,6 @@
 # Hello there, welcome to my profile! 👋
 
-I'm a tech enthusiast based in São Paulo, Brazil, passionate about innovation, personal development, and applying new technologies to solve real-world problems. I am currently a key contributor to cutting-edge projects at **[DM3 Technologies](http://www.dm3technologies.com.br)**.
+I'm a tech enthusiast based in São Paulo, Brazil, passionate about innovation, personal development, and applying new technologies to solve real-world problems. I am currently the CTO at **[DM3 Technologies](http://www.dm3technologies.com.br)** and we are committed to cutting-edge, high-tech projects.
 
 ---
 
