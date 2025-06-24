@@ -1,32 +1,34 @@
-# Olá, seja bem-vindo(a) ao meu perfil! 👋
+# Hello there, welcome to my profile! 👋
 
-Sou um profissional de tecnologia baseado em São Paulo, Brasil, apaixonado por inovação, desenvolvimento pessoal e pela aplicação de novas tecnologias para resolver problemas reais. Atualmente, integro o time da **[DM3 Technologies](http.dm3technologies.com.br)**, onde colaboro em projetos de ponta.
-
----
-
-### 🚀 Habilidades e Tecnologias em Foco
-
-No momento, estou aprofundando meus conhecimentos nas seguintes áreas e ferramentas:
-
-![Static Badge](https://img.shields.io/badge/Redes-blue)
-![Static Badge](https://img.shields.io/badge/Virtualização-purple)
-![Static Badge](https://img.shields.io/badge/CI/CD-orange)
-![Static Badge](https://img.shields.io/badge/IoT-darkgreen)
-![Static Badge](https://img.shields.io/badge/MarTech-cyan)
+I'm a tech enthusiast based in São Paulo, Brazil, passionate about innovation, personal development, and applying new technologies to solve real-world problems. I am currently a key contributor to cutting-edge projects at **[DM3 Technologies](http://www.dm3technologies.com.br)**.
 
 ---
 
-### 📫 Conecte-se Comigo
+### 🚀 Core Skills & Focus Areas
 
-Estou sempre disponível para um bom bate-papo sobre tecnologia ou para explorar oportunidades de colaboração!
+My main focus is on exploring and implementing new technologies. I am currently deepening my knowledge in the following areas:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN)
+![Static Badge](https://img.shields.io/badge/Artificial_Intelligence-4494D0?style=for-the-badge&logo=openai&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AI_Agents-6E35B7?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virtualization-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CI/CD-orange?style=for-the-badge&logo=gitlab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/IoT-darkgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/MarTech-cyan?style=for-the-badge)
+
+---
+
+### 📫 Connect with Me
+
+I'm always open to discussing tech, brainstorming new ideas, or exploring potential collaborations. Feel free to reach out!
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-barreto-6076371b)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.barreto@dm3technologies.com)
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Stats
 
-[![Estatísticas do GitHub de Marcelo](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/SEU-USUARIO-DO-GITHUB)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/engmarcelobarreto)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula)](https://github.com/SEU-USUARIO-DO-GITHUB)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=7&theme=dracula)](https://github.com/engmarcelobarreto)
